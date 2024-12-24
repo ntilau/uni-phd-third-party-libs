@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1311433769 source:q:\work\coding\testarmadillo\armamemtest\main.cpp
+	<iostream>
+	"armadillo"
+

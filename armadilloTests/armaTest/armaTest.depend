@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1309709219 source:c:\users\laurent\desktop\test\armatest\main.cpp
+	<iostream>
+	"armadillo"
+
+1309709219 source:q:\work\coding\testarmadillo\armatest\main.cpp
+	<iostream>
+	"armadillo"
+
